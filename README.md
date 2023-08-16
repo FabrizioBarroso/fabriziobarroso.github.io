@@ -1,2 +1,2 @@
 # Tienda.github.
-Prototipo de tienda xD 
+Prototipo de tienda 
