@@ -1,5 +1,6 @@
 
 Prototipo de tienda 
+abrir tienda por 
 echo "# store" >> README.md
 git init
 git add README.md
